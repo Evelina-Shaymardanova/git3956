@@ -3,3 +3,5 @@
 > **git branch (branch_name)** - создать ветку с именем branch name
 
 > **git log** - журнал
+
+>**git merge (имя ветки)** - слияние веток
